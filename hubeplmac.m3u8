@@ -1,4 +1,4 @@
 #EXTM3U
 #EXT-X-VERSION:3
 #EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=11100000,FRAME-RATE=50
-http://cam.access.ly/play/live.php?mac=00:1a:79:b4:af:19&stream=1032529&extension=m3u8
+http://bcsusers.store:8080/live/ourlineforusers/JozyFTSDqu/5157.m3u8
