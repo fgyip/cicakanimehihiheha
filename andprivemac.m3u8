@@ -1,4 +1,5 @@
 #EXTM3U
 #EXT-X-VERSION:3
 #EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=6100000,FRAME-RATE=25
-http://line.iseepremium.com/play/live.php?mac=00:1a:79:b4:af:19&stream=155746&extension=m3u8
+http://sansat.net:25461/live/02000650970977/02000650970977/93644.m3u8
+#http://line.iseepremium.com/play/live.php?mac=00:1a:79:b4:af:19&stream=155746&extension=m3u8
