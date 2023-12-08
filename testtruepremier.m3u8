@@ -1,0 +1,4 @@
+#EXTM3U
+#EXT-X-VERSION:3
+#EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=3800000,FRAME-RATE=30
+https://sport.livedoomovies.com:4432/02_PremierHD1_720p/chunklist.m3u8
